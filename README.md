@@ -6,14 +6,16 @@ Computer Science student interested in Cybersecurity, Software Development, and 
 - Personal Finance Dashboard (Python)
 - Learning Git and GitHub
 - Cybersecurity Fundamentals
+- Building Security and Automation Projects
 
 ## Skills
 - Python
 - Java
 - Git
 - GitHub
+- Object-Oriented Programming (OOP)
 - Problem Solving
-
+  
 ## Goals
 - Gain experience through internships
 - Build cybersecurity and software development projects
